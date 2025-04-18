@@ -74,6 +74,9 @@ Graphs for accuracy & loss curves during training included
 
 Model Output: Malignant
 Confidence: 94.2%
+
+
+
 💡 Future Improvements
 Streamlit-based web deployment
 
@@ -83,10 +86,17 @@ Model optimization (Learning rate, Epoch tuning)
 
 Use of Transfer Learning (e.g., ResNet, MobileNet)
 
+
+
 🤝 Contributions
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repository and submit a pull request.
 
+📽️ Demo 
+
+
+
+![Screenshot (2)](https://github.com/user-attachments/assets/1e5632d0-14b2-4159-a6ee-e2e67c79b787)
 
 
 
